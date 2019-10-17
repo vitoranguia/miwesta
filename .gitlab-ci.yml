@@ -1,0 +1,9 @@
+image: python:latest
+
+before_script:
+  - python -V
+  - pip install cpplint
+
+test:
+  script:
+    - make check-style
