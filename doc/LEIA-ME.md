@@ -18,7 +18,7 @@ Você precisa dos seguintes hardwares e componentes:
 - FC-37
 - YL-38
 
-Você precisa de `Arduino Uno`, `Breadboard`, `Dupont Jumper` e `Cabo USB`.
+Você precisa também de `Arduino Uno`, `Breadboard`, `Dupont Jumper` e `Cabo USB`.
 
 ## Materiais
 
