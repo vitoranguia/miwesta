@@ -32,6 +32,4 @@ You also need to `Arduino Uno`, `Breadboard` `Dupont Jumper` and `USB Cable`.
 ## Tools
 
 - PVC glue
-- Mini arco de serra
-- Lamina de serra (Starrett)
 - Abraçadeira de plástico ou nylon (fita Hellerman)

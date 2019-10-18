@@ -30,6 +30,4 @@ Você precisa também de `Arduino Uno`, `Breadboard`, `Dupont Jumper` e `Cabo US
 ## Ferramentas
 
 - Cola de PVC
-- Mini arco de serra
-- Lamina de serra (Starrett)
 - Abraçadeira de plástico ou nylon (fita Hellerman)
