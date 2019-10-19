@@ -10,17 +10,17 @@ Este projeto foi desenvolvido para ser apresentado na [FliSol Recife 2019](https
 
 Este pacote é compatível com [ShellCheck](https://github.com/koalaman/shellcheck).
 
-![Banner](https://archive.org/download/vitoranguia-miwesta_20191017/banner.png)
+![Banner](https://gitlab.com/vitoranguia/miwesta/wikis/uploads/1632986f842af97e8d47269373003f4c/banner.png)
 
-[Veja mais fotos](https://archive.org/details/vitoranguia-miwesta_20191017)
+[Veja mais fotos](https://gitlab.com/vitoranguia/miwesta/wikis/)
 
 ## Construção
 
 Monte seu projeto de acordo com esta imagem.
 
-![Screenshot Fritzing](https://archive.org/download/vitoranguia-miwesta_20191017/screenshotFritzing.jpg)
+![Screenshot Fritzing](https://gitlab.com/vitoranguia/miwesta/wikis/uploads/8b5ca939b761dbc8edfc568700f393e2/screenshotFritzing.jpg)
 
-Veja [instruções para construção](doc/LEIA-ME.md), obtenha o [projeto Fritzing](doc/miwesta.fzz).
+Veja [instruções para construção](doc/LEIA-ME.md), obtenha o [projeto Fritzing](https://gitlab.com/vitoranguia/miwesta/wikis/uploads/5c270c261cb9410546b80a536e0829b5/miwesta.fzz).
 
 ## Contribuindo
 
