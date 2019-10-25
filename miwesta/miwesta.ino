@@ -14,13 +14,6 @@
  *
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <https://www.gnu.org/licenses/>.
- *
- * Arduino version 2.0
- *
- * @author    Vitor Guia <contato@vitor.guia.nom.br>
- * @copyright 2019 Vitor Guia
- * @license   http://www.gnu.org/licenses GPL-3.0-or-later
- * @see       https://gitlab.com/vitoranguia/miwesta Repository of Miwesta
  */
 
 /** DHT11 */
