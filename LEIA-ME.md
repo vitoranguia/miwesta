@@ -20,7 +20,7 @@ Monte seu projeto de acordo com esta imagem.
 
 ![Screenshot Fritzing](https://gitlab.com/vitoranguia/miwesta/wikis/uploads/8b5ca939b761dbc8edfc568700f393e2/screenshotFritzing.jpg)
 
-Veja [instruções para construção](doc/LEIA-ME.md), obtenha o [projeto Fritzing](miwesta/miwesta.fzz).
+Veja [instruções para construção](doc/LEIA-ME.md), obtenha o [projeto Fritzing](miwesta.fzz).
 
 ## Contribuindo
 

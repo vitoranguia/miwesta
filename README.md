@@ -20,7 +20,7 @@ Build your project according to this image.
 
 ![Screenshot Fritzing](https://gitlab.com/vitoranguia/miwesta/wikis/uploads/8b5ca939b761dbc8edfc568700f393e2/screenshotFritzing.jpg)
 
-See [building instructions](doc/README.md), get [Fritzing project](miwesta/miwesta.fzz).
+See [building instructions](doc/README.md), get [Fritzing project](miwesta.fzz).
 
 ## Contributing
 

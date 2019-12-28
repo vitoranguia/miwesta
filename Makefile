@@ -1,4 +1,4 @@
-SRC = $(shell pwd)/miwesta/miwesta.ino
+SRC = $(shell pwd)/miwesta.ino
 LIB_A = /usr/share/arduino/libraries/
 LIB_B = $(HOME)/sketchbook/libraries/
 
@@ -6,7 +6,7 @@ all: upload
 
 .PHONY: check-style
 check-style:
-	cpplint --extensions=ino miwesta/*
+	cpplint --extensions=ino miwesta.ino
 	@echo Check style completed!
 
 .PHONY: tags
